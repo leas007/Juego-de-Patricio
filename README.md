@@ -32,7 +32,7 @@
 - Utiliza el sistema de físicas 2D de Unity para las colisiones y movimientos.
 
 ## Capturas de Pantalla y/o Videos
-(Inserta aquí las capturas de pantalla o enlaces a videos del juego.)
+(Capturas de pantalla del juego.)
 ![1](https://github.com/leas007/Juego-de-Patricio/assets/126729654/7fc44704-7c55-4828-8504-ecf3d7ee98d8)
 ![2](https://github.com/leas007/Juego-de-Patricio/assets/126729654/5146e86d-3eba-4cea-8ab1-ae2ee6b12cd1)
 ![win](https://github.com/leas007/Juego-de-Patricio/assets/126729654/2c98ba68-5117-4ce3-bb0a-0b27e3cc240e)
